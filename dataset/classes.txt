@@ -1,0 +1,4 @@
+car
+truck
+traffic-light
+stop-sign
